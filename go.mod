@@ -48,7 +48,7 @@ require (
 	github.com/hashicorp/go-bexpr v0.1.7
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-gcp-common v0.6.0
-	github.com/hashicorp/go-getter v1.4.1
+	github.com/hashicorp/go-getter v1.5.11
 	github.com/hashicorp/go-hclog v0.16.1
 	github.com/hashicorp/go-memdb v1.3.2
 	github.com/hashicorp/go-multierror v1.1.1
