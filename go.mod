@@ -48,7 +48,7 @@ require (
 	github.com/hashicorp/go-bexpr v0.1.7
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-gcp-common v0.6.0
-	github.com/hashicorp/go-getter v1.4.1
+	github.com/hashicorp/go-getter v1.6.1
 	github.com/hashicorp/go-hclog v0.16.1
 	github.com/hashicorp/go-memdb v1.3.2
 	github.com/hashicorp/go-multierror v1.1.1
@@ -105,7 +105,7 @@ require (
 	go.uber.org/goleak v1.1.10
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
+	golang.org/x/sys v0.0.0-20220517195934-5e4e11fc645e
 	google.golang.org/api v0.25.0
 	google.golang.org/genproto v0.0.0-20201022181438-0ff5f38871d5
 	google.golang.org/grpc v1.33.1
